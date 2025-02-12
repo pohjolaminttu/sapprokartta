@@ -1,0 +1,46 @@
+html {
+    font-family: "Space Grotesk";
+    text-align: center;
+}
+
+
+h1 {
+    font-family: "Press Start 2P";
+    font-size: 40px;
+    color: rgb(242, 52, 160);
+    text-align: center;
+    text-shadow: 3px 3px 1px  rgb(254, 185, 253);
+}
+
+h3 {
+    font-family: "Press Start 2P";
+    font-size: 15px;
+    color: rgb(242, 52, 160);
+    text-align: center;
+    text-shadow: 3px 3px 1px  rgb(254, 185, 253);
+}
+
+/*Nää blockit ei oo atm käytössä*/
+
+
+div#Alkublokki {
+    background-color: rgb(254, 185, 253);
+    color:  rgb(242, 52, 160);
+    width: 65%;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+div#Info {
+    background-color: rgb(254, 185, 253);
+    padding: 10px 10px 10px 10px;
+    width: 70%;
+
+}
+
+p.pikkuinfo {
+    color: rgb(103, 103, 103);
+    font-style: italic;
+}
+
