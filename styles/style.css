@@ -20,6 +20,19 @@ h3 {
     text-shadow: 3px 3px 1px  rgb(254, 185, 253);
 }
 
+div.bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("../images/tausta.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: -1; /* Laittaa taustakuvan alimmaiseksi */
+}
+
 /*Nää blockit ei oo atm käytössä*/
 
 
